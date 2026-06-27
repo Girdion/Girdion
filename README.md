@@ -48,7 +48,6 @@ Building scalable backend systems with Go & .NET
 
 * ⚡ Backend development with Go
 * 🧠 System Design & Distributed Systems
-* 📚 LeetCode & algorithm practice
 * 🏗️ Building production-ready backend projects
 
 ---
