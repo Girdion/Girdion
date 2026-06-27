@@ -19,7 +19,6 @@ Building scalable backend systems with Go & .NET
 
 * 💼 Backend Engineer focused on building reliable and scalable applications
 * 🌱 Currently learning **Go**, **System Design**, and **Distributed Systems**
-* 🧩 Regularly solving **Data Structures & Algorithms**
 * 🚀 Interested in backend infrastructure, APIs, and software architecture
 
 ---
